@@ -1,0 +1,4 @@
+
+dims_schema: "dims"
+dims_table: "dims_table"
+staging_schema: "staging"
